@@ -1,0 +1,13 @@
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.dll
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.pdb
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.pkgdef
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.csprojResolveAssemblyReference.cache
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.SQLConnector.resources
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.csproj.GenerateResource.Cache
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.dll
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.pdb
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.pkgdef
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.latest.pkgdef
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.vsix
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\extension.vsixmanifest
+c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\extension.vsixmanifest

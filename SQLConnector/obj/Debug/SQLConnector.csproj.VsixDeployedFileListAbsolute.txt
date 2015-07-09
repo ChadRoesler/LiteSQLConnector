@@ -1,0 +1,4 @@
+C:\Users\Chad.Roesler\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Chad Roesler\SQLConnector\1.0\\SQLConnector.dll
+C:\Users\Chad.Roesler\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Chad Roesler\SQLConnector\1.0\\SQLConnector.pkgdef
+C:\Users\Chad.Roesler\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Chad Roesler\SQLConnector\1.0\\extension.vsixmanifest
+C:\Users\Chad.Roesler\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Chad Roesler\SQLConnector\1.0\\SQLConnector.pdb

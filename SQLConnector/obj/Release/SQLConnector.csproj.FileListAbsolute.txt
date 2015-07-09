@@ -1,0 +1,15 @@
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\License.txt
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.dll
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.pdb
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.pkgdef
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.vsix
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\extension.vsixmanifest
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.SQLConnector.resources
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.csproj.GenerateResource.Cache
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.dll
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.pdb
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.pkgdef
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\SQLConnector.latest.pkgdef
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\obj\Release\extension.vsixmanifest
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.dll.CodeAnalysisLog.xml
+C:\Users\Chad.Roesler\Documents\Visual Studio 2012\Projects\SQLConnector\SQLConnector\bin\Release\SQLConnector.dll.lastcodeanalysissucceeded
