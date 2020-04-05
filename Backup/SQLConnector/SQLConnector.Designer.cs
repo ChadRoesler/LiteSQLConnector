@@ -50,7 +50,7 @@
             this.comboBoxServerList.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.comboBoxServerList.FormattingEnabled = true;
             this.comboBoxServerList.Location = new System.Drawing.Point(96, 4);
-            this.comboBoxServerList.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBoxServerList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBoxServerList.Name = "comboBoxServerList";
             this.comboBoxServerList.Size = new System.Drawing.Size(217, 24);
             this.comboBoxServerList.TabIndex = 1;
@@ -62,7 +62,7 @@
             // 
             this.comboBoxDatabaseList.FormattingEnabled = true;
             this.comboBoxDatabaseList.Location = new System.Drawing.Point(96, 37);
-            this.comboBoxDatabaseList.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBoxDatabaseList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBoxDatabaseList.Name = "comboBoxDatabaseList";
             this.comboBoxDatabaseList.Size = new System.Drawing.Size(217, 24);
             this.comboBoxDatabaseList.TabIndex = 4;
@@ -75,9 +75,9 @@
             this.checkBoxUseWA.Checked = true;
             this.checkBoxUseWA.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBoxUseWA.Location = new System.Drawing.Point(8, 75);
-            this.checkBoxUseWA.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBoxUseWA.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.checkBoxUseWA.Name = "checkBoxUseWA";
-            this.checkBoxUseWA.Size = new System.Drawing.Size(209, 21);
+            this.checkBoxUseWA.Size = new System.Drawing.Size(196, 20);
             this.checkBoxUseWA.TabIndex = 7;
             this.checkBoxUseWA.Text = "Use Windows Authentication";
             this.checkBoxUseWA.UseVisualStyleBackColor = true;
@@ -91,9 +91,9 @@
             this.groupBoxWA.Controls.Add(this.textBoxPassword);
             this.groupBoxWA.Enabled = false;
             this.groupBoxWA.Location = new System.Drawing.Point(8, 103);
-            this.groupBoxWA.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBoxWA.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBoxWA.Name = "groupBoxWA";
-            this.groupBoxWA.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBoxWA.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBoxWA.Size = new System.Drawing.Size(400, 91);
             this.groupBoxWA.TabIndex = 8;
             this.groupBoxWA.TabStop = false;
@@ -105,7 +105,7 @@
             this.labelPassword.Location = new System.Drawing.Point(8, 59);
             this.labelPassword.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelPassword.Name = "labelPassword";
-            this.labelPassword.Size = new System.Drawing.Size(73, 17);
+            this.labelPassword.Size = new System.Drawing.Size(71, 16);
             this.labelPassword.TabIndex = 2;
             this.labelPassword.Text = "Password:";
             // 
@@ -115,14 +115,14 @@
             this.labelUserName.Location = new System.Drawing.Point(8, 27);
             this.labelUserName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelUserName.Name = "labelUserName";
-            this.labelUserName.Size = new System.Drawing.Size(83, 17);
+            this.labelUserName.Size = new System.Drawing.Size(80, 16);
             this.labelUserName.TabIndex = 0;
             this.labelUserName.Text = "User Name:";
             // 
             // textBoxUserName
             // 
             this.textBoxUserName.Location = new System.Drawing.Point(113, 23);
-            this.textBoxUserName.Margin = new System.Windows.Forms.Padding(4);
+            this.textBoxUserName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxUserName.Name = "textBoxUserName";
             this.textBoxUserName.Size = new System.Drawing.Size(277, 22);
             this.textBoxUserName.TabIndex = 1;
@@ -131,7 +131,7 @@
             // textBoxPassword
             // 
             this.textBoxPassword.Location = new System.Drawing.Point(113, 55);
-            this.textBoxPassword.Margin = new System.Windows.Forms.Padding(4);
+            this.textBoxPassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.PasswordChar = '*';
             this.textBoxPassword.Size = new System.Drawing.Size(277, 22);
@@ -144,7 +144,7 @@
             this.labelServer.Location = new System.Drawing.Point(4, 7);
             this.labelServer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelServer.Name = "labelServer";
-            this.labelServer.Size = new System.Drawing.Size(54, 17);
+            this.labelServer.Size = new System.Drawing.Size(51, 16);
             this.labelServer.TabIndex = 0;
             this.labelServer.Text = "Server:";
             // 
@@ -154,14 +154,14 @@
             this.labelDatabase.Location = new System.Drawing.Point(4, 41);
             this.labelDatabase.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelDatabase.Name = "labelDatabase";
-            this.labelDatabase.Size = new System.Drawing.Size(73, 17);
+            this.labelDatabase.Size = new System.Drawing.Size(71, 16);
             this.labelDatabase.TabIndex = 3;
             this.labelDatabase.Text = "Database:";
             // 
             // buttonTestConnection
             // 
             this.buttonTestConnection.Location = new System.Drawing.Point(261, 70);
-            this.buttonTestConnection.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonTestConnection.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonTestConnection.Name = "buttonTestConnection";
             this.buttonTestConnection.Size = new System.Drawing.Size(147, 28);
             this.buttonTestConnection.TabIndex = 6;
@@ -172,7 +172,7 @@
             // buttonServerRefresh
             // 
             this.buttonServerRefresh.Location = new System.Drawing.Point(323, 1);
-            this.buttonServerRefresh.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonServerRefresh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonServerRefresh.Name = "buttonServerRefresh";
             this.buttonServerRefresh.Size = new System.Drawing.Size(85, 28);
             this.buttonServerRefresh.TabIndex = 2;
@@ -183,7 +183,7 @@
             // buttonDatabaseRefresh
             // 
             this.buttonDatabaseRefresh.Location = new System.Drawing.Point(323, 34);
-            this.buttonDatabaseRefresh.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonDatabaseRefresh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonDatabaseRefresh.Name = "buttonDatabaseRefresh";
             this.buttonDatabaseRefresh.Size = new System.Drawing.Size(85, 28);
             this.buttonDatabaseRefresh.TabIndex = 5;
@@ -204,11 +204,11 @@
             this.Controls.Add(this.checkBoxUseWA);
             this.Controls.Add(this.comboBoxDatabaseList);
             this.Controls.Add(this.comboBoxServerList);
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.MaximumSize = new System.Drawing.Size(416, 196);
-            this.MinimumSize = new System.Drawing.Size(416, 196);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MaximumSize = new System.Drawing.Size(416, 203);
+            this.MinimumSize = new System.Drawing.Size(416, 203);
             this.Name = "SQLConnector";
-            this.Size = new System.Drawing.Size(416, 196);
+            this.Size = new System.Drawing.Size(416, 203);
             this.Load += new System.EventHandler(this.SQLConnector_Load);
             this.groupBoxWA.ResumeLayout(false);
             this.groupBoxWA.PerformLayout();

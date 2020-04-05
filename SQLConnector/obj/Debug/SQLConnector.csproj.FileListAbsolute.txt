@@ -11,3 +11,9 @@ c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConn
 c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.vsix
 c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\bin\Debug\extension.vsixmanifest
 c:\users\chad.roesler\documents\visual studio 2012\Projects\SQLConnector\SQLConnector\obj\Debug\extension.vsixmanifest
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.csprojAssemblyReference.cache
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.SQLConnector.resources
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.csproj.GenerateResource.cache
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.csproj.CoreCompileInputs.cache
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.dll
+C:\ChadRoesler_Git\LiteSQLConnector\SQLConnector\obj\Debug\SQLConnector.pdb
